@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989035092954",
+    "firebase_url": "https://heckaton-2e99f.firebaseio.com",
+    "project_id": "heckaton-2e99f",
+    "storage_bucket": "heckaton-2e99f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989035092954:android:58b1e12516082472b4bee3",
+        "android_client_info": {
+          "package_name": "com.example.competition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989035092954-tnomrp2q3gu4k6e6qbblit31p7helr0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB72CgMwjUmAb7rjRVURC8IZECR13w2Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989035092954-tnomrp2q3gu4k6e6qbblit31p7helr0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
